@@ -120,6 +120,10 @@ figcaption{
   margin-top: 840px;
 }
 
+.space3 {
+  margin-top: 455px;
+}
+
 .thumb1 { 
   width: 900px;
   height: 350px;
@@ -130,7 +134,9 @@ footer{
   text-align: center;
 }
 
-/* .thumb1:hover { 
-  width: 500px;
-  height: 250px;
- } */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
